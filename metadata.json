@@ -1,0 +1,6 @@
+{
+  "name": "Money Dashboard",
+  "description": "All-in-one income and revenue dashboard for freelancers and creators with multi-stream tracking, goals, and AI insights.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
